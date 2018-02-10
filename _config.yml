@@ -9,7 +9,7 @@ title:               Poole
 tagline:             The Jekyll Butler
 url:                 http://getpoole.com
 paginate:            1
-baseurl:             ""
+baseurl:             "https://rodrijuarez.github.io/blog/"
 
 # Assets
 #
@@ -20,9 +20,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Rodrigo Juarez
+  url:               https://twitter.com/_rodrijuarez
+  email:             rodrigo.juarez.inf@gmail.com
 
 # Custom vars
 version:             2.0.0
