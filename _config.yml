@@ -6,9 +6,9 @@ permalink:           pretty
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 https://rodrigojuarez.xyz/
 paginate:            1
-baseurl:             "https://rodrijuarez.github.io/blog/"
+baseurl:             "https://rodrigojuarez.xyz/"
 
 # Assets
 #
