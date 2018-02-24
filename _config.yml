@@ -6,9 +6,9 @@ permalink:           pretty
 # Setup
 title:               Blog
 tagline:             Rodrigo Juarez
-url:                 https://rodrigojuarez.xyz/
+url:                 http://rodrigojuarez.xyz/
 paginate:            1
-baseurl:             "https://rodrigojuarez.xyz/"
+baseurl:             "http://rodrigojuarez.xyz/"
 
 # Assets
 #
