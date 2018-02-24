@@ -3,6 +3,7 @@ layout: post
 title: Results aren't everything
 ---
 
+<img src="http://www.parkcircus.com/assets/0002/0954/the_shining_image18_large.jpg?1340119787"></img>
 Outcome shouldn’t be the only measure of success in a company. How the employees improve over time and a culture of learning should be prioritized.
 
 Why?
