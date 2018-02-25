@@ -8,7 +8,7 @@ title:               Blog
 tagline:             Rodrigo Juarez
 url:                 http://rodrigojuarez.xyz/
 paginate:            1
-baseurl:             "http://rodrigojuarez.xyz/"
+baseurl:             "http://rodrigojuarez.xyz"
 
 # Assets
 #
