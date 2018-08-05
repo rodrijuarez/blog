@@ -3,8 +3,6 @@ layout: post
 title: Takeways at BusConf 2018
 ---
 
-<img src="https://hipertextual.com/files/2016/01/the_big_short_adam_mckay-1000x563.jpg"/>
-
  This weekend I've attended to the [BusConf 2018](http://www.bus-conf.org/), where I met a lot
 of great people, heard some amazing talks and had fun with other developers with the same interests
 as me.
