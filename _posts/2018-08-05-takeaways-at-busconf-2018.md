@@ -13,9 +13,9 @@ as me.
 * Idris and Purescript as languages to check out in the future
 * Prepare blog posts and talks (for meetups and events)
   * Why? For educating others, for educating one-self
-* Go to unconferences and code camps! The talks are setted up by the attendees, so there's also the possibilit
+* Go to unconferences and code camps! The talks are setted up by the attendees, so there's also the possibility
   not only of you giving a talk, but requesting another person to give a talk in a subject in which you want to know more about
 * Learn more about Cathegory Theory, I'm pretty ignorant in this subject and a lot of the concepts fliying around
   this conference where related to this, so better to sit down and learn!
 
-And finally but not least: do more stuff in which you feel insecure but they make you grow professionally, in this case I'm not very deep into functional programming as other attendees, but all of them were more than happy than helping you in concepts and things that you may not have understood.
+And finally but not least: do more stuff in which you feel insecure but they make you grow professionally, in this case I'm not very deep into functional programming as other attendees, but all of them were more than happy in helping me in concepts and things that I did not understand
