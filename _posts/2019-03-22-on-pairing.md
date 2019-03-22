@@ -28,7 +28,7 @@ If you're a Front-end developer, using something like VSCode Live  code tool wor
 
 On the other side, on the things that didn't work one of them was pairing for long periods of time. Pair programming by itself is quite exhausting and can drain a lot of energy. An hour of it seemed just about right to me before I start getting distracted or exhausted, this totally depends on you and on the person you're pairing with.
 
-Something else that quite didn't work was having onne person doing all the coding, this leaves the other person in kind of an iddle state and is not an enjoyable experience for either participant. In the end neither of you will learn nor improve much.
+Something else that quite didn't work was having one person doing all the coding, this leaves the other person in kind of an iddle state and is not an enjoyable experience for either participant. In the end neither of you will learn nor improve much.
 
 
 
