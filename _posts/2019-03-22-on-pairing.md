@@ -1,4 +1,4 @@
-When I started working at [Secret Escapes](https://secretescapes.com) a common practice was doing pair programming. For me this was pretty new, I wasn't used to pairing sessions of 30 mins or more. Previously I would pair for a couple minutes with a coworker to solve small bugs and use this in the same way as [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging). 
+When I started working at [Secret Escapes](https://secretescapes.com) a common practice was doing pair programming. For me this was pretty new, I wasn't used to pairing sessions of 30 mins or more. Previously I would pair for a couple minutes with a coworker to solve small bugs and use this in the same way as [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging).
 
 To begin with, I should say I pretty much sucked at this. During the sessions one of the two persons would hack the code until the issue was solved and the other person would stay idle and bored.
 
@@ -42,4 +42,4 @@ I encourage you to try pair programming for half an hour or so, whenever you fin
 
 
 
-PS: [At SecretEscapes we're hiring engineers](https://careers.secretescapes.com/jobs/)
+PS: [At SecretEscapes we're hiring engineers](https://careers.secretescapes.com/jobs/){:#referral}
