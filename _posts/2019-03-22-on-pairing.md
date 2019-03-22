@@ -28,7 +28,7 @@ On the other side, one of the things that didn't work, was pairing for long peri
 
 ![img](https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/share_link_image_large/public/screenshots/csm-tv/cowboy-bebop-ss1_0.jpg?itok=D290KZY8)
 
-Something else that didn't quite work was having one person doing all the coding. This leaves the other person in an idle state and is not an enjoyable experience for either participant. In the end, neither of you will learn or improve much.
+Something else that didn't quite work was having one person doing all the coding. This leaves the other person in an idle state and is not an enjoyable experience for either participant. In the end, neither of you will learn or improve much.{.something}
 
 
 
