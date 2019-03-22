@@ -42,4 +42,4 @@ I encourage you to try pair programming for half an hour or so, whenever you fin
 
 
 
-PS: [At SecretEscapes we're hiring engineers](){:#referral}
+PS: [At SecretEscapes we're hiring engineers](https://careers.secretescapes.com/jobs/){:#referral}
