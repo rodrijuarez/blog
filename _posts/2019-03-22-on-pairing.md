@@ -1,4 +1,4 @@
-When I started working at [Secret Escapes](https://secretescapes.com) a common practice was doing pair programming. For me this was pretty new, I wasn't used to pairing sessions of 30 mins or more. Previously I would pair for a couple minutes with a coworker to solve small bugs and use this in the same way as [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging).
+When I started working at [Secret Escapes](https://secretescapes.com) a common practice was doing pair programming. For me this was pretty new, I wasn't used to pairing sessions of 30 mins or more. Previously I would pair for a couple minutes with a coworker to solve small bugs and use this in the same way as [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging). 
 
 To begin with, I should say I pretty much sucked at this. During the sessions one of the two persons would hack the code until the issue was solved and the other person would stay idle and bored.
 
@@ -14,7 +14,7 @@ Personally one of the things that worked the best when trying out this checklist
 
 Another point that made pairing an experience much more enjoyable was doing time-based intervals and switching the driver / companion position. Setting timers of 3 to 5 minutes seems just about right for the pairing to be dynamic.
 
-The experience should be pretty interactive all along, the companion should ask questions and communicate their observations. Along the session, the driver should explain their thought process and the why of the approach taken.
+The experience should be pretty interactive all along, the companion should ask questions and communicate their observations, and the driver should explain their thought process and the why of the approach taken.
 
 If you're a Front-end developer, I would suggest using something like VSCode Live tool which works like a charm (sorry Vim 😓).
 
@@ -24,7 +24,7 @@ If you're a Front-end developer, I would suggest using something like VSCode Liv
 
 ### What did not work
 
-On the other side, one of the things that didn't work, was pairing for long periods of time. Pair programming on its own is quite exhausting and can drain a lot of energy. To me, the point before I'd start getting distracted (or exhausted) was about an hour. Though this totally depends on you and the person you're pairing with.
+On the other side, one of the things that didn't work, was pairing for long periods of time. Pair programming on its own is quite exhausting and can drain a lot of energy. To me, the point before I'd start getting distracted (or exhausted) was about an hour - though this totally depends on you and the person you're pairing with.
 
 ![img](https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/share_link_image_large/public/screenshots/csm-tv/cowboy-bebop-ss1_0.jpg?itok=D290KZY8)
 
@@ -42,4 +42,4 @@ I encourage you to try pair programming for half an hour or so, whenever you fin
 
 
 
-PS: [At SecretEscapes we're hiring engineers](
+PS: [At SecretEscapes we're hiring engineers](https://careers.secretescapes.com/jobs/)
