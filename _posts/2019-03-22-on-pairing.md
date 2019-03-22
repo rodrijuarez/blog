@@ -1,5 +1,3 @@
-## On Pairing
-
  When I started working at [Secret Escapes](https://secretescapes.com) a common practice was doing pair programming. For me this was pretty new and wasn't used at all to doing sessions of 30 mins or more of pairing with other people, previously I'd just pair for a couple of minutes with a coworker to solve small bugs and use this as a way to [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging). 
 
 So at the start, I must say,  I pretty much sucked at this and the sessions of pair programming with me where mostly one of the two persons just hacking the code till the issue / feature was implemented and the other one staying iddle and getting bored.
@@ -8,6 +6,8 @@ After some time of researching and searching through blogsposts, I found an amaz
 
 ![DkB6z8pSGODIxb6Ixagf_effective-pairing-main](https://images.thoughtbot.com/blog-vellum-image-uploads/DkB6z8pSGODIxb6Ixagf_effective-pairing-main.png)
 
+
+------
 
 
 ### What worked
